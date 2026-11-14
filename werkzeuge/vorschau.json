@@ -1,0 +1,5 @@
+{ "basis": "https://kaffeeundkommiss.github.io/bundeswehr-somalia/", "ordner": "vorschau", "site_name": "Bundeswehr in Somalia",
+  "seiten": [
+    { "datei": "index.html", "bild": "start", "kicker": "Sicherheitspolitik · 1993/94", "titel": "Bundeswehr in Somalia" },
+    { "datei": "karte.html", "bild": "karte", "kicker": "Karte", "titel": "Somalia im Überblick", "karte": "svg.kartesvg" }
+  ] }
