@@ -1,6 +1,6 @@
 # Belegmatrix
 
-Abgerufen am 14.11.2026. Nummern wie auf der Seite. Nicht voneinander unabhängig: [1] und [9] Bundeswehr; [2] Bundesarchiv, stützt sich auf den BMVg-Abschlussbericht vom 02.08.1994 (BArch BW 1/298129), daher teilweise abhängig von [1]; [3]–[5] bpb; [6]–[7] BVerfG (Wiedergabe DFR, Universität Bern); [10] gibt Leitsätze von [7] wieder; [11]–[13] Vereinte Nationen; [14]–[16] Bundestag ([14], [15] Anträge PDS/Linke Liste); [18] Wikipedia (Ergänzung).
+Abgerufen am 14.11.2026. Nummern wie auf der Seite. Nicht voneinander unabhängig: [1] und [9] Bundeswehr; [2] Bundesarchiv, stützt sich auf den BMVg-Abschlussbericht vom 02.08.1994 (BArch BW 1/298129), daher teilweise abhängig von [1]; [3]–[5] bpb; [6]–[7] BVerfG (Wiedergabe DFR, Universität Bern); [10] gibt Leitsätze von [7] wieder; [11]–[13] Vereinte Nationen; [14]–[16], [19] Bundestag ([14], [15] Anträge PDS/Linke Liste; [19] Plenarprotokoll 12/240, Abruf 18.11.2026); [18] Wikipedia (Ergänzung).
 
 Hinweis zur Prüftiefe: Die Seiten wurden über einen Abrufdienst gelesen. Wörtliche Passagen unten stammen aus diesen Abrufen. Bei [7] wurden Leitsätze und Tenor im Wortlaut gelesen, die Gründe nur bis S. 299. Bei [16] wurde nur das Inhaltsverzeichnis gelesen; das Abstimmungsergebnis (S. 14608 C) war nicht abrufbar. Bei [13] ist nur der erste Teil (rund 40.000 Zeichen) wörtlich gelesen.
 
@@ -60,6 +60,7 @@ Hinweis zur Prüftiefe: Die Seiten wurden über einen Abrufdienst gelesen. Wört
 
 ## Offene Punkte
 
-1. Abstimmungsergebnis 02.07.1993 aus Plenarprotokoll 12/169, S. 14608 C, nachtragen.
+1. Abstimmungsergebnis 02.07.1993 aus Plenarprotokoll 12/169, S. 14608 C, nachtragen. Stand 18.11.2026: Inhaltsverzeichnis und Anlage 3 (Erklärungen zur Abstimmung über den Antrag) gelesen; die Seiten ab 14570 waren für das Abrufwerkzeug nicht erreichbar.
+1a. Abstimmung 22.07.1994: jetzt [4] und [19] (Plenarprotokoll 12/240); Stimmergebnisse (S. 21208 C, 21211 A) nicht gelesen.
 2. Ende des Einsatzes: 23.03.1994 ([1], [18]) gegen 28.02.1994 ([3]) klären, etwa mit MGFA „Wegweiser zur Geschichte: Auslandseinsätze der Bundeswehr“ (unbestätigt, nicht eingesehen).
 3. Southern-Cross-Details (Schiffe, 1.492 Soldaten) stützen sich nur auf Wikipedia; Primärquelle: Gottfried Hoch, „Southern Cross – Marineverband Somalia“, Marineforum 7/8-1994 (unbestätigt, nicht eingesehen).
