@@ -1,6 +1,6 @@
 # Belegmatrix
 
-Abgerufen am 14.11.2026. Nummern wie auf der Seite. Nicht voneinander unabhängig: [1] und [9] Bundeswehr; [2] Bundesarchiv, stützt sich auf den BMVg-Abschlussbericht vom 02.08.1994 (BArch BW 1/298129), daher teilweise abhängig von [1]; [3]–[5] bpb; [6]–[7] BVerfG (Wiedergabe DFR, Universität Bern); [10] gibt Leitsätze von [7] wieder; [11]–[13] Vereinte Nationen; [14]–[16], [19] Bundestag ([14], [15] Anträge PDS/Linke Liste; [19] Plenarprotokoll 12/240, Abruf 18.11.2026); [18] Wikipedia (Ergänzung).
+Abgerufen am 14.11.2026. Nummern wie auf der Seite. Nicht voneinander unabhängig: [1] und [9] Bundeswehr; [2] Bundesarchiv, stützt sich auf den BMVg-Abschlussbericht vom 02.08.1994 (BArch BW 1/298129), daher teilweise abhängig von [1]; [3]–[5] bpb; [6]–[7] BVerfG (Wiedergabe DFR, Universität Bern); [10] gibt Leitsätze von [7] wieder; [11]–[13] Vereinte Nationen; [14]–[16], [19] Bundestag ([14], [15] Anträge PDS/Linke Liste; [19] Plenarprotokoll 12/240, Abruf 18.11.2026); [18], [21] Wikipedia (Ergänzung); [20] Wiegold, Augen geradeaus! (16.05.2018).
 
 Hinweis zur Prüftiefe: Die Seiten wurden über einen Abrufdienst gelesen. Wörtliche Passagen unten stammen aus diesen Abrufen. Bei [7] wurden Leitsätze und Tenor im Wortlaut gelesen, die Gründe nur bis S. 299. Bei [16] wurde nur das Inhaltsverzeichnis gelesen; das Abstimmungsergebnis (S. 14608 C) war nicht abrufbar. Bei [13] ist nur der erste Teil (rund 40.000 Zeichen) wörtlich gelesen.
 
@@ -28,7 +28,7 @@ Hinweis zur Prüftiefe: Die Seiten wurden über einen Abrufdienst gelesen. Wört
 | Rückverlegung per Schiff ab Mogadischu, Operation Southern Cross | [2]; [17] | [2] „nahmen kurzfristig entsandte Schiffe der Bundesmarine die Soldaten auf (Operation „Southern Cross“)“; [17] „frigates and a supply ship were used as transports“ | belegt |
 | Landmarsch nach Mogadischu „risikoreich“ | [2] | „Nach einem risikoreichen Landmarsch zum Hafen von Mogadischu“ | eine Quelle |
 | Schiffe Köln, Karlsruhe, Nienburg; 1.492 Soldaten auf See | [18] | Wikipedia (Zusammenfassung des Abrufs, nicht wörtlich) | eine Quelle (Wikipedia), gekennzeichnet |
-| Ende 23.03.1994 | [1]; [18] | [1] „bis 23. März 1994“; [18] „Am 23. März 1994 verließ die TG 500.02 mit dem letzten Kontingent die somalische Küste“ | belegt; Widerspruch zu [3] „Die letzten deutschen Soldaten ziehen am 28. 2. 1994 ab.“ auf der Seite genannt |
+| Ende 23.03.1994 | [1]; [18] | [1] „bis 23. März 1994“; [18] „Am 23. März 1994 verließ die TG 500.02 mit dem letzten Kontingent die somalische Küste“ | belegt; Widerspruch zu [3] „Die letzten deutschen Soldaten ziehen am 28. 2. 1994 ab.“ auf der Seite genannt; [20] (Wiegold, 16.05.2018): „gingen dann im Februar 1994 die deutschen Soldaten an Bord mehrerer Fregatten“; [21] „Am 23. März 1994 verließen die letzten deutschen Soldaten Somalia“ (Wikipedia, nicht unabhängig von [18]) |
 | UNOSOM II bis März 1995 | [11]; [12] | [11] „UNOSOM II (March 1993 - March 1995)“; [12] „Duration: March 1993 - March 1995“ | nur UN |
 | Obergrenze 28.000 bis 04.02.1994 | [12] | „28,000 military and civilian police personnel“ | eine Quelle (UN) |
 | 154 Tote (149 Soldaten) | [12] | „149 military personnel“, „154 total“ | eine Quelle (UN) |
@@ -36,6 +36,7 @@ Hinweis zur Prüftiefe: Die Seiten wurden über einen Abrufdienst gelesen. Wört
 | Einstweilige Anordnung 23.06.1993 (2 BvQ 17/93) | [6] | Kopf: „vom 23. Juni 1993 -- 2 BvQ 17/93 --“; Tenor: „nur aufrecht erhalten und fortgeführt werden, wenn und soweit der Deutsche Bundestag dies beschließt“ | eine Quelle (Gericht selbst) |
 | 240 Soldaten als Vorkommando | [6] | „Gegenwärtig sind 240 Soldaten als Vorkommando in Somalia stationiert.“ | eine Quelle |
 | Bundestag billigt am 02.07.1993 | [3]; [16] | [3] „Der Bundestag billigt den »Blauhelmeinsatz« mehrheitlich am 2. 7. 1993.“; [16] Inhaltsverzeichnis TOP 20 „Beteiligung der Bundeswehr an UNOSOM II“, „Namentliche Abstimmung … 14608 D“ | belegt; Stimmenzahlen offen |
+| Stimmergebnis 02.07.1993: 535 abgegeben, 337 Ja, 185 Nein, 13 Enthaltungen | [16]; [21] | [16] S. 14608 C „Es wurden insgesamt 535 Stimmen abgegeben. Mit Ja haben 337 Kollegen und Kolleginnen gestimmt, mit Nein 185, enthalten haben sich 13.“; [21] „am 2. Juli 1993 mit 337 gegen 185 Stimmen zu“ | Ja/Nein belegt (Primärquelle + Wikipedia); Enthaltungen nur [16]; bekanntgegebenes, nicht endgültiges Ergebnis |
 | PDS-Anträge 20.04. und 16.06.1993 | [14]; [15] | [14] „keine Bundeswehreinheiten nach Somalia zu entsenden“; [15] Titel „Sofortiger Rückzug aus Somalia“ | Primärquellen |
 | Frühere Einsätze ohne Bundestag (Kambodscha, Somalia 1991/92) | [5] | „jeweils unter UN-Mandat, aber ohne vorherige Einwilligung des Bundestags.“ | eine Quelle |
 | Klagen von FDP und SPD gegen AWACS, Adria, Somalia | [4]; [5]; [7]; [10] | [4] „weist damit Klagen von SPD und FDP … ab“; [5] „die SPD stellte außerdem den Adria-Einsatz der Marine und die Beteiligung an der UN-Mission in Somalia in Frage“; [10] „klagten zuerst FDP und dann SPD“ | belegt |
@@ -60,7 +61,7 @@ Hinweis zur Prüftiefe: Die Seiten wurden über einen Abrufdienst gelesen. Wört
 
 ## Offene Punkte
 
-1. Abstimmungsergebnis 02.07.1993 aus Plenarprotokoll 12/169, S. 14608 C, nachtragen. Stand 18.11.2026: Inhaltsverzeichnis und Anlage 3 (Erklärungen zur Abstimmung über den Antrag) gelesen; die Seiten ab 14570 waren für das Abrufwerkzeug nicht erreichbar.
+1. Erledigt 19.11.2026: Bekanntgegebenes Ergebnis S. 14608 C gelesen (535/337/185/13), Ja/Nein auch [21]. Das „Endgültige Ergebnis“ im Protokoll war im Abruf nicht lesbar und kann leicht abweichen. Früherer Stand: Stand 18.11.2026: Inhaltsverzeichnis und Anlage 3 (Erklärungen zur Abstimmung über den Antrag) gelesen; die Seiten ab 14570 waren für das Abrufwerkzeug nicht erreichbar.
 1a. Abstimmung 22.07.1994: jetzt [4] und [19] (Plenarprotokoll 12/240); Stimmergebnisse (S. 21208 C, 21211 A) nicht gelesen.
-2. Ende des Einsatzes: 23.03.1994 ([1], [18]) gegen 28.02.1994 ([3]) klären, etwa mit MGFA „Wegweiser zur Geschichte: Auslandseinsätze der Bundeswehr“ (unbestätigt, nicht eingesehen).
+2. Ende des Einsatzes: 23.03.1994 ([1], [18], [21]) gegen 28.02.1994 ([3]). Stand 19.11.2026: [20] nennt die Einschiffung im Februar 1994; taz 13.01.1994 kündigte das letzte Schiff für den 19.03. an (Plan). Der 28.02. ist in keiner weiteren Quelle zu finden; Widerspruch bleibt auf der Seite genannt. Weiter klären, etwa mit MGFA „Wegweiser zur Geschichte: Auslandseinsätze der Bundeswehr“ (unbestätigt, nicht eingesehen).
 3. Southern-Cross-Details (Schiffe, 1.492 Soldaten) stützen sich nur auf Wikipedia; Primärquelle: Gottfried Hoch, „Southern Cross – Marineverband Somalia“, Marineforum 7/8-1994 (unbestätigt, nicht eingesehen).
