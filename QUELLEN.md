@@ -54,7 +54,7 @@ Hinweis zur Prüftiefe: Die Seiten wurden über einen Abrufdienst gelesen. Wört
 ## Nicht übernommen
 
 - [9] nennt „Missionen der Vereinten Nationen in Somalia 1992“; das betrifft die Luftbrücke vor UNOSOM II.
-- Stimmenzahlen der Abstimmung vom 02.07.1993: Protokoll S. 14608 C nicht abrufbar.
+- Stimmenzahlen der Abstimmung vom 02.07.1993: am 19.11.2026 nachgetragen (S. 14608 C/D).
 - Kosten des Einsatzes, deutsche Verluste: in keiner gelesenen Quelle genannt. Die Seite macht dazu keine Angabe.
 - Abstimmungsverhältnis im Senat 1994: in keiner gelesenen Quelle genannt.
 - Kommentar von Gottfried Hoch unter [17] (Ausflug „in 6 rounds“): Leserkommentar, nicht verwendet.
