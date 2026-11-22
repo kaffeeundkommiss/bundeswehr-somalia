@@ -59,6 +59,16 @@ Hinweis zur Prüftiefe: Die Seiten wurden über einen Abrufdienst gelesen. Wört
 - Abstimmungsverhältnis im Senat 1994: in keiner gelesenen Quelle genannt.
 - Kommentar von Gottfried Hoch unter [17] (Ausflug „in 6 rounds“): Leserkommentar, nicht verwendet.
 
+## Begriffserklärungen (ergänzt 22.11.2026)
+
+Abgerufen am 22.11.2026. Die Erklärungen stehen beim ersten Vorkommen des Begriffs im Fließtext. Wikipedia und Constellatio sind nur ergänzend genutzt.
+
+| Begriff (Erklärung auf der Seite) | Quellen | Passage (wörtlich, gekürzt) | Bewertung |
+|---|---|---|---|
+| Kapitel VII: erlaubt dem Sicherheitsrat Zwangsmaßnahmen bis hin zum Einsatz von Streitkräften | [24]; [25] | [24] Art. 39: „Der Sicherheitsrat stellt fest, ob eine Bedrohung oder ein Bruch des Friedens … vorliegt; er … beschließt, welche Maßnahmen aufgrund der Artikel 41 und 42 zu treffen sind“; [25] „kann er nach Kapitel VII der UN-Charta nicht-militärische und militärische Zwangsmaßnahmen beschließen“ | belegt; Wortlaut von Art. 42 im Abruf abgeschnitten |
+| Einstweilige Anordnung: vorläufige Regelung bis zur Entscheidung in der Hauptsache | [28]; [29] | [28] § 32 Abs. 1: „kann im Streitfall einen Zustand durch einstweilige Anordnung vorläufig regeln“; [29] „soll eine vorläufige Regelung bis zur endgültigen Entscheidung des Bundesverfassungsgerichts treffen“ | belegt |
+| Namentliche Abstimmung: die Stimme jedes Abgeordneten wird mit Namen veröffentlicht | [26]; [27] | [26] „Stimmkarten, auf denen ihr Name und ihre Fraktion stehen“, „Auch die Namensliste wird veröffentlicht.“; [27] „dienen dazu, das individuelle Abstimmungsverhalten der Abgeordneten transparent zu machen und im Protokoll zu dokumentieren“ | belegt; [27] ohne Seitenzahl |
+
 ## Offene Punkte
 
 1. Erledigt 19.11.2026: Bekanntgegebenes Ergebnis S. 14608 C gelesen (535/337/185/13), Ja/Nein auch [21]. Endgültiges Ergebnis (534/336/184/14) am 19.11.2026 nachgetragen. Früherer Stand: Stand 18.11.2026: Inhaltsverzeichnis und Anlage 3 (Erklärungen zur Abstimmung über den Antrag) gelesen; die Seiten ab 14570 waren für das Abrufwerkzeug nicht erreichbar.
